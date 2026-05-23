@@ -1,4 +1,4 @@
-# AxiomEye
+# AxiomEye 
 
 Hackathon scaffold with:
 - `frontend/`: React 18 + Tailwind CSS + Redux Toolkit (Vite)
