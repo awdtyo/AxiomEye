@@ -4,7 +4,7 @@ AxiomEye is an advanced, domain-specific media forensics and digital verificatio
 
 ---
 
-## 🏛️ System Architecture & Core Mechanics
+## System Architecture & Core Mechanics
 
 AxiomEye does not rely on generic, high-level semantic vision models to determine file integrity. Instead, it executes an objective, two-tier physical file analysis:
 
@@ -14,7 +14,7 @@ AxiomEye does not rely on generic, high-level semantic vision models to determin
 
 ---
 
-## 🔒 Deployment & Hosting Notice
+## Deployment & Hosting Notice
 
 > [!IMPORTANT]
 > **Hosting Configuration Statement:**
@@ -22,7 +22,7 @@ AxiomEye does not rely on generic, high-level semantic vision models to determin
 
 ---
 
-## 🛠️ Installation & Local Setup
+## Installation & Local Setup
 
 Prerequisites: Ensure you have **Python 3.10+**, **Node.js 18+**, and **Git** installed on your host machine.
 
