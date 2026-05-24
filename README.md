@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./frontend/banner.png" alt="AxiomEye Banner" width="100%">
 </p>
+
 # AxiomEye: Media Forensics for Incident Response
 
 AxiomEye is an advanced, domain-specific media forensics and digital verification platform engineered to detect digital image manipulation, compression anomalies, and generative adversarial network (GAN) deepfakes. Designed specifically for investigative journalists, security analysts, and incident response teams, the platform leverages a hybrid pipeline combining decentralized computer vision execution with centralized linguistic orchestration.
