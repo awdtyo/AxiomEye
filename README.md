@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./frontend/banner.png" alt="AxiomEye Banner" width="100%">
+  <img src="./frontend/banner (1).png" alt="AxiomEye Banner" width="100%">
 </p>
 
 # AxiomEye: Media Forensics for Incident Response
