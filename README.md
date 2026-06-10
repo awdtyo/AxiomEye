@@ -7,7 +7,7 @@
 AxiomEye is an advanced, domain-specific media forensics and digital verification platform engineered to detect digital image manipulation, compression anomalies, and generative adversarial network (GAN) deepfakes. Designed specifically for investigative journalists, security analysts, and incident response teams, the platform leverages a hybrid pipeline combining decentralized computer vision execution with centralized linguistic orchestration.
 
 ---
-
+ 
 ## System Architecture & Core Mechanics
 
 AxiomEye does not rely on generic, high-level semantic vision models to determine file integrity. Instead, it executes an objective, two-tier physical file analysis:
